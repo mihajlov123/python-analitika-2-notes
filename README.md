@@ -53,3 +53,38 @@
 ### [Del 4: Overdnotenje in optimizacija modelov](./04_Overdnotenje_in_optimizacija_modelov/README.md)
 - Cross-Validation ✅
 - Grid Search ✅
+- Hyperparameter Optimization ✅
+- Evaluation Metrics and Scoring ✅
+- Automatic Feature Selection ✅
+
+### [Del 5: Pipelines in scikit-learn](./05_Pipelines_in_scikit-learn/README.md) 
+- Intro To Pipelines ✅
+- Example: Pipelines usage ✅
+
+### [Del 6: Ensemble Learning](./06_Ensemble_Learning/README.md)
+- Introduction to Ensemble Learning ✅
+- Ensembles of Decision Trees ✅
+- XGBoost ✅
+
+### [Del 7: Recommender systems](./07_Recommender_systems/README.md)
+- Recommender systems ✅
+- Recommender systems Exercise ✅
+
+### [Del 8: Nenadzorovano učenje](./08_Nenadzorovano_ucenje/README.md)
+- Uvod v nenadzorovano učenje ✅
+- Clustering ✅
+- Dimension Reduction ✅
+
+### [Del 9: Time Series Forecasting](./09_Time_Series_Forecasting/README.md)
+- Intro to Time Series Forecasting ✅
+- Understanding time series forecasting ✅
+- Modeling a moving average process ✅
+- Modeling an autoregressive process ✅ 
+- Modeling complex time series ✅
+- Forecasting non-stationary time series ✅
+- Accounting for seasonality ✅
+- Adding external variables to models ✅
+
+### [Del 10: Real-world applications for ML](./10_Real-world_applications_for_ML/README.md)
+- End-to-End Machine Learning Project
+- Overview of Machine Learning
