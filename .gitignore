@@ -112,3 +112,5 @@ venv.bak/
 # mypy
 .mypy_cache/
 
+Izpit/data/Problem1_tip_narave.csv
+Izpit/data/Problem2_cena_hise.csv
